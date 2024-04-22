@@ -2,7 +2,7 @@
 
 $usuario = 'root';
 $senha = '';
-$banco = 'projetos2';
+$banco = 'neuralnet';
 $servidor = 'localhost';
 
 date_default_timezone_set('America/Sao_Paulo');
@@ -16,7 +16,7 @@ try {
 }
 
 //valores para as variaveis do sistema
-$nome_sistema = 'Projetos';
+$nome_sistema = 'NeuralNET';
 $email_sistema = 'admin@gmail.com';
 $telefone_sistema = '(11)98765-4321';
 $endereco_sistema = '';

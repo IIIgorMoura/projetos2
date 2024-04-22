@@ -1,4 +1,4 @@
-?php 
+<?php 
 require_once("../../conexao.php");
 $tabela = 'equipe';
 $id = $_POST['id'];
