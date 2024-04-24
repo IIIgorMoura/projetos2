@@ -1,9 +1,9 @@
 <?php 
 
-$usuario = 'root';
-$senha = '';
-$banco = 'neuralnet';
-$servidor = 'localhost';
+$usuario = 'dese1709_neuralnet';
+$senha = 'N3ural.3157';
+$banco = 'dese1709_neuralnet';
+$servidor = 'sh-pro126.hostgator.com.br';
 
 date_default_timezone_set('America/Sao_Paulo');
 
